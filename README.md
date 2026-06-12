@@ -39,3 +39,6 @@ app/src/main/res/layout/
 ├── news_cardview.xml
 ├── latest_news_cardview.xml
 └── relate_news_cardview.xml
+
+app/src/main/
+└── AndroidManifest.xml
